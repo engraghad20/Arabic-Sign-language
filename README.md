@@ -25,3 +25,8 @@ Current Results
 The model is capable of recognizing 5 main letters with good accuracy.
 
 💡 Upgradeable: Work is ongoing to expand the model to cover all 28 Arabic letters, increasing the dataset size and improving accuracy.
+
+
+Google Drive:
+[Download the trained model]
+[Download the trained model](https://drive.google.com/file/d/1AbCdEfGhIjKlMn/view?usp=sharing))
