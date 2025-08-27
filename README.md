@@ -28,5 +28,4 @@ The model is capable of recognizing 5 main letters with good accuracy.
 
 
 Google Drive:
-[Download the trained model]
-[Download the trained model]([https://drive.google.com/file/d/1AbCdEfGhIjKlMn/view?usp=sharing](https://drive.google.com/drive/folders/1hUMSzbfa6n3GOqH5InlzSrfHANa6pxDI?usp=sharing)))
+[Open the model folder on Google Drive](https://drive.google.com/drive/folders/1hUMSzbfa6n3GOqH5InlzSrfHANa6pxDI?usp=sharing)
